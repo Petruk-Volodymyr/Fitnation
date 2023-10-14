@@ -1,0 +1,19 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: 'Orelega One', cursive;
+}
+:root{
+	--headerColorSheme: #2196f3;
+	--navbar: #252525;
+	--whiteText: #FFF;
+	--blueText: #90caf9;
+	--sectionBlueColorText: #0D47A1;
+	--statisticBlueColor: #CBE7FB;
+	--lightBlue: #e3f2fd;
+	--blue: #42a5f5;
+}
+body{
+	background-color: var(--lightBlue);
+	width: 100%;
+}
